@@ -2,11 +2,11 @@
 <br>
 
 # 💫About Me :
-🌱 I’m currently learning Flutter Development
-👨‍💻 All of my projects are available at https://github.com/gautamjain09
-📫 How to reach me gjain2299@gmail.com
-💬 Ask me about Android and Tech Related Topics
-⚡ fact Nothing, Just need Coffee.
+🌱 I’m currently learning Flutter Development <br />
+👨‍💻 All of my projects are available at https://github.com/gautamjain09 <br />
+📫 How to reach me gjain2299@gmail.com <br />
+💬 Ask me about Android and Tech Related Topics <br />
+⚡ fact Nothing, Just need Coffee. <br />
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_nareliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-jain-1382011aa) 
