@@ -1,5 +1,4 @@
-<h2 align="center">Sup? I'm Gautam. A grumpy programmer may byte</h2>
-<br>
+<h2> Sup? I'm Gautam. A grumpy programmer may byte.</h2>
 
 ## 💫About Me :
 🌱 I’m currently working on Freelion App with Flutter <br />
@@ -8,8 +7,7 @@
 💬 Ask me about procrastinating workflows and mobile development <br />
 ⚡ Not a fun fact: I have a few facts about unemployment prople, but none of them work <br />
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_nareliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-jain-1382011aa) 
+
 
 ## 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -23,7 +21,10 @@
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=gautamjain09&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
----
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_nareliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-jain-1382011aa) 
+
+
 [![](https://visitcount.itsvg.in/api?id=gautamjain09&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
