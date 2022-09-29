@@ -1,15 +1,11 @@
-<h2> Sup? I'm Gautam. A grumpy programmer may byte.</h2>
+# Hi, I'm Gautam Jain! 👋
 
-## 💫About Me :
-🌱 I’m currently working on Freelion App with Flutter <br />
-👨‍💻 I'm currently learning Dynamic Programming <br />
-📫 How to reach me gjain2299@gmail.com <br />
-💬 Ask me about procrastinating workflows and mobile development <br />
-⚡ Not a fun fact: I have a few facts about unemployment prople, but none of them work <br />
+![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=gautamjain09&show_icons=true&theme=react)
 
+## 🚀 About Me
+I'm a 20 year old coding enthusiast with some knowledge in App Development and Competitive Programming!
 
-
-## 💻Tech Stack
+## 🛠 Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -18,15 +14,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gautamjain09&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_nareliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-jain-1382011aa) 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautamjain09/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gautam_nareliya/)
 
 
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gautamjain09) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
